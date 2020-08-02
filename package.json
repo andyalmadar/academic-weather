@@ -1,0 +1,22 @@
+{
+  "name": "05-weather",
+  "version": "1.0.0",
+  "description": "*Like every project starting with \"academic-\", this was an exercise of a course I'm taking right now or I took before because it finished.*",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyalmadar/academic-weather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyalmadar/academic-weather/issues"
+  },
+  "homepage": "https://github.com/andyalmadar/academic-weather#readme",
+  "dependencies": {
+    "yargs": "^15.4.1"
+  }
+}
